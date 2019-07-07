@@ -1,0 +1,20 @@
+Django Crash course Study Lecture 
+
+what is django 
+- High level python web framework 
+-Free open source
+-rapid development 
+-MTV (Model Template view)
+
+High level Frame work
+-Less Freedom
+-Good for beginners 
+-Usually the best way
+
+Why use Django 
+-Rapid Development 
+-Full Featured 
+-High Performance 
+-Very secure 
+-Scalability 
+-Versatile 
