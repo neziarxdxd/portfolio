@@ -18,3 +18,29 @@ Why use Django
 -Very secure 
 -Scalability 
 -Versatile 
+
+Sites
+-Disqus
+-Instagram
+-BitBucket
+-Nasa
+-Firefox help site
+
+Is Django MVC?
+-Influence by MVC 
+
+MTV
+-Model Template view
+Model 
+-Data Access Layer
+Template
+-Presentation layer 
+
+View 
+-Business Logic Laer 
+-Controller 
+
+Concept of Apps 
+-Each Project website 
+has separate "apps"
+-Can have single app
