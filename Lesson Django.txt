@@ -47,3 +47,9 @@ has separate "apps"
 
 
 Python Virtual Environment 
+
+
+Steps 1
+
+Install Python 
+Install Django Using PIP 
