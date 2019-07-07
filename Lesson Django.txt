@@ -44,3 +44,6 @@ Concept of Apps
 -Each Project website 
 has separate "apps"
 -Can have single app
+
+
+Python Virtual Environment 
